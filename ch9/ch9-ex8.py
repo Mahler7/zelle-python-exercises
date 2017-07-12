@@ -16,7 +16,7 @@ def main():
 
 def intro():
     print("This program simulates multiple games of Black Jack")
-    print("and estimates the probability that the dealer will bust")
+    print("and estimates the probability that the dealer and player will bust")
 
 def inputs():
     validNumber = False
@@ -103,6 +103,5 @@ def printBustResults(n, dealerBusts, playerBusts):
     print("For {0} games of Black Jack".format(n))
     print("Dealer busted {0} games or {1:0.2%} of the time".format(dealerBusts, dealerBusts / n))
     print("Player busted {0} games or {1:0.2%} of the time".format(playerBusts, playerBusts / n))
-
 
 main()
