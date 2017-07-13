@@ -44,4 +44,7 @@ class Button:
     def getLabel(self):
         "Returns the label string of this button"
         return self.label.getText()
-        
+
+    def setValue(self, value):
+        self.value = value
+        return self.value

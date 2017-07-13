@@ -31,5 +31,4 @@ def main():
             quitButton.activate()
         pt = win.getMouse()
     win.close()
-
 main()
