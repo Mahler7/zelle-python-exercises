@@ -1,0 +1,5 @@
+4.0	Computewell, Susan 	400.0
+3.3872972972972972	Smith, Frank 	125.33
+3.195876288659794	Jones, Jim 	155.0
+2.3055555555555554	Dibblebit, Denny 	41.5
+1.795275590551181	Adams, Henry 	228.0
